@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # Net Glue Ltd
 
 … is a small web design and development firm located in Devon, UK. We/I have been going for a pretty long time… Since around 2003.
